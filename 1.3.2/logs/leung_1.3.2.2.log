@@ -1,0 +1,99 @@
+# IPython log file
+
+# Thu, 06 Dec 2018 20:55:29
+5+4
+#[Out]# 9
+# Thu, 06 Dec 2018 20:56:30
+5+3.
+#[Out]# 8.0
+# Thu, 06 Dec 2018 20:56:53
+7*2
+#[Out]# 14
+# Thu, 06 Dec 2018 20:57:04
+7*2.
+#[Out]# 14.0
+# Thu, 06 Dec 2018 20:58:36
+7/2
+#[Out]# 3
+# Thu, 06 Dec 2018 20:58:41
+7/2.
+#[Out]# 3.5
+# Thu, 06 Dec 2018 21:04:26
+# 7b.(When dividing with decimal at the end, the answer shows with decimal number and without deciaml at the end, the answer doesn't show deciaml number at all.)
+# Thu, 06 Dec 2018 21:04:48
+a-2
+# Thu, 06 Dec 2018 21:04:57
+a=2
+# Thu, 06 Dec 2018 21:05:44
+ryan=awesomer than conner
+# Thu, 06 Dec 2018 21:05:47
+ryan
+# Thu, 06 Dec 2018 21:05:58
+ryan=swesome
+# Thu, 06 Dec 2018 21:06:27
+#8.Assignment
+# Thu, 06 Dec 2018 21:06:40
+student_age=16
+# Thu, 06 Dec 2018 21:07:24
+a
+#[Out]# 2
+# Thu, 06 Dec 2018 21:07:35
+connor=1 years old
+# Thu, 06 Dec 2018 21:07:40
+connor
+# Thu, 06 Dec 2018 21:08:03
+ryanisawesomerthanconnor=true
+# Thu, 06 Dec 2018 21:08:22
+a
+#[Out]# 2
+# Thu, 06 Dec 2018 21:08:24
+a*7
+#[Out]# 14
+# Thu, 06 Dec 2018 21:08:37
+3 ** 2
+#[Out]# 9
+# Thu, 06 Dec 2018 21:09:21
+23 ** 43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Thu, 06 Dec 2018 21:09:40
+abs(-7)
+#[Out]# 7
+# Thu, 06 Dec 2018 21:12:23
+ryanisbetterthanconner="true"
+# Thu, 06 Dec 2018 21:12:33
+ryanisbetterthanconner
+#[Out]# 'true'
+# Thu, 06 Dec 2018 21:13:08
+connor="1 years old"
+# Thu, 06 Dec 2018 21:13:10
+connor
+#[Out]# '1 years old'
+# Thu, 06 Dec 2018 21:14:10
+What is a Connor="A 14 years old cry baby"
+# Thu, 06 Dec 2018 21:14:45
+WhatIsAConnor?="A 14 years old human cry baby"
+# Thu, 06 Dec 2018 21:16:55
+1.0 == 1
+#[Out]# True
+# Thu, 06 Dec 2018 21:17:17
+RyanAndConnor="Dum Dum"
+# Thu, 06 Dec 2018 21:17:24
+RyanAndConnor
+#[Out]# 'Dum Dum'
+# Thu, 06 Dec 2018 21:18:31
+2/3
+#[Out]# 0
+# Thu, 06 Dec 2018 21:18:37
+1/2
+#[Out]# 0
+# Thu, 06 Dec 2018 21:18:42
+99/100
+#[Out]# 0
+# Thu, 06 Dec 2018 21:32:59
+%run 1.3.2/Leung_1.3.2.py
+# Thu, 06 Dec 2018 21:33:22
+%run 1.3.2/leung_1.3.2.py
+# Thu, 06 Dec 2018 21:33:39
+%run 1.3.2/leung_1.3.2py
+# Thu, 06 Dec 2018 21:34:09
+%logstop
